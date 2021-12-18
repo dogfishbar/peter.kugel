@@ -1,38 +1,32 @@
 ## From Phil/Howard
 
-Retired Computer Science Professor Peter Kugel passed away
-on October 11, 2021.  He died at the age of 91, at home with
-his family at his bedside. He was a much beloved member of
-the Computer Science Department from shortly after its
-founding in 197?.
+Retired Computer Science Professor Peter Kugel passed away on October
+11, 2021.  He died at home with his family at his bedside. He was 91.
 
-Peter was an exceptional colleague and a generous mentor to
-both students and junior faculty.   His scholarly interests
-were broad but his main interests centered around human
-intelligence and computability.  
+Peter was a much beloved member of the Computer Science Department
+from shortly after its founding in 1970 through his retirement in
+2005.  He was known in the department for his warmth and generosity,
+for his wide ranging interests and for his humor. He was an
+exceptional colleague and a generous mentor to both students and
+junior faculty colleagues.
+
+His scholarly interests were broad but his main interests centered
+around human intelligence and computability, a topic that he continued
+to work on in retirement. 
 
 *2021 at the age of 91 after a long and happy life.
-
-His son, Jeremy Kugel said, "Peter endured a litany of
-illnesses, always with grace and optimism.  He was a good man who had
-a wonderful marriage and a pair of not-too-shabby kids, as well as a
-daughter-in-law and two grandsons he loved deeply. The final few
-months were difficult, but they did give me and Seth several chances
-to visit, share memories, and ultimately say good-bye.  We were at his
-bedside when he went -- and while we are so sad to see him go, we are
-also relieved that he is finally at peace."
 
 Peter was born in Berlin, Germany, in 1930 and arrived in the United
 States via Holland and England when he was seven. He grew up in
 Manhattan. Peter's tongue-in-cheek biography reflects his endearing
-sense of humor: "When I graduated from Colgate, I was drafted into the
+sense of humor: *When I graduated from Colgate, I was drafted into the
 Army where I helped fight the Korean War from behind a desk in
 Maryland. I earned a PhD in philosophy at Harvard and, finding the
 available jobs in philosophy unappealing, I went to work for a company
 developing software on Boston's Route 128.  From there, I went to MIT
 where I tried unsuccessfully to invent Google.  After MIT, I came to
 Boston College where I taught computer science for 35 years until
-retiring in 2005."*
+retiring in 2005.*
 
 ## Quotes from BC People
 
