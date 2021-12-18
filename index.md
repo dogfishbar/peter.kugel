@@ -1,9 +1,9 @@
+## From Phil/Howard
+
 Retired Computer Science Professor Peter Kugel passed on October 11,
 2021 at the age of 91 after a long and happy life.
 
-His son, Jeremy Kugel said, Retired Computer Science Professor Peter
-Kugel passed on October 11, 2021 at the age of 91 after a long and
-happy life.  His son, Jeremy Kugel said, "Peter endured a litany of
+His son, Jeremy Kugel said, "Peter endured a litany of
 illnesses, always with grace and optimism.  He was a good man who had
 a wonderful marriage and a pair of not-too-shabby kids, as well as a
 daughter-in-law and two grandsons he loved deeply. The final few
