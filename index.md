@@ -3,18 +3,16 @@
 Retired Computer Science Professor Peter Kugel passed away on October
 11, 2021.  He died at home with his family at his bedside. He was 91.
 
-Peter was a much beloved member of the Computer Science Department
-from shortly after its founding in 1970 through his retirement in
-2005.  He was known in the department for his warmth and generosity,
-for his wide ranging interests and for his humor. He was an
-exceptional colleague and a generous mentor to both students and
+Peter was a much beloved member of the Computer Science Department.
+He joined the department shortly after its founding in 1970 and
+retired in 2005.  He was known in the department for his warmth and
+generosity, for his wide ranging interests and for his humor. He was
+an exceptional colleague and a generous mentor to both students and
 junior faculty colleagues.
 
 His scholarly interests were broad but his main interests centered
 around human intelligence and computability, a topic that he continued
 to work on in retirement. 
-
-*2021 at the age of 91 after a long and happy life.
 
 Peter was born in Berlin, Germany, in 1930 and arrived in the United
 States via Holland and England when he was seven. He grew up in
