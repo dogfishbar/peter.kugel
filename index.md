@@ -10,7 +10,7 @@ generosity, for his wide ranging interests and for his humor. He was
 an exceptional colleague and a generous mentor to both students and
 junior faculty colleagues.
 
-His scholarly interests were broad but his main interests centered
+Peter's scholarly interests were broad but his main interests centered
 around human intelligence and computability, a topic that he continued
 to work on in retirement. 
 
