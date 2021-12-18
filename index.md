@@ -6,14 +6,13 @@ Peter was a much beloved member of the Computer Science Department.
 He joined the department shortly after its founding in 1970 and
 retired in 2005.  He was known in the department for his warmth and
 generosity, for his wide ranging interests and for his humor. He was
-an exceptional colleague and a generous mentor to both students and
-junior faculty colleagues.
+an exceptional colleague and an especially generous mentor to both
+students and junior faculty colleagues.
 
 Peter's scholarly interests were broad but his main interests centered
-around human intelligence and computability, a topic that he continued
-to work on in retirement. 
-
-[Induction pure and simple](https://www.sciencedirect.com/science/article/pii/S0019995877901759), *Information and Control*, December 1977.
+around human intelligence, logic and computability, a topic that he
+continued to work on in retirement.  He published an influential article
+on induction in 1977.  [Induction pure and simple](https://www.sciencedirect.com/science/article/pii/S0019995877901759), *Information and Control*, December 1977.
 
 [Thinking may be more than computing](https://www.sciencedirect.com/science/article/abs/pii/0010027786900570) *Cognition*, March 1986.
 
