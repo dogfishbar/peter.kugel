@@ -1,5 +1,6 @@
 Retired Computer Science Professor Peter Kugel passed away on October
-11, 2021.  He died at home with his family at his bedside. He was 91.
+11, 2021.  He died at home with his wife Judy and his sons Jeremy and
+Seth at his bedside. He was 91.
 
 Peter was a much beloved member of the Computer Science Department.
 He joined the department shortly after its founding in 1970 and
@@ -11,6 +12,12 @@ junior faculty colleagues.
 Peter's scholarly interests were broad but his main interests centered
 around human intelligence and computability, a topic that he continued
 to work on in retirement. 
+
+[Induction pure and simple](https://www.sciencedirect.com/science/article/pii/S0019995877901759), *Information and Control*, December 1977.
+
+[Thinking may be more than computing](https://www.sciencedirect.com/science/article/abs/pii/0010027786900570) *Cognition*, March 1986.
+
+[How professors develop as teachers](https://www.tandfonline.com/doi/abs/10.1080/03075079312331382241?casa_token=vxgeZxUcbzIAAAAA:oN2JrjBumxTsyA0Ha7maYTPw5gAdrZYSBdVFxKOM3M-OmZJ3HVtbiRN-RdEMkzf4y8x1LVz6zpkssw), *Studies in Higher Education*, 1993.
 
 Peter was born in Berlin, Germany, in 1930 and arrived in the United
 States via Holland and England when he was seven. He grew up in
