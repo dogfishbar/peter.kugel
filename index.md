@@ -24,6 +24,8 @@ where I tried unsuccessfully to invent Google.  After MIT, I came to
 Boston College where I taught computer science for 35 years until
 retiring in 2005."
 
+## Quotes from BC People
+
 "Peter Kugel was a lively presence in the department," writes
 Professor Sergio Alvarez. "I'm glad that I had the opportunity to see
 him on several of the occasions when he came back to visit after he
@@ -48,6 +50,25 @@ laughs with Peter as well as "wonderful computer science discussions."
 Olivieri adds, "He was unique, with a great sense of humor and a
 friend to everyone in the department. He is no doubt now carrying on
 those conversations with some of his idols."
+
+## From Judy
+
+I don't know all the details, except that when he finished his PhD
+after taking some time off in the middle, there were no logic jobs,
+but plenty of computer science opportunities.  When he started
+teaching computer science at BC, he had never taken a computer science
+course.  Regrettably, he was still working on his major work when he
+died -- namely his own understanding of how intelligence works, and
+although I tried to persuade him to let me mail it to someone to look
+over, he refused.  It's sad.  
+
+Peter did have an interesting work history.  When I met him in 1965 he
+was working at Tech Ops where among other things he developed some
+games for the military to use. He did start his doctoral work with
+Quine, but he died before Peter finished, and I want to say that he
+finished it under Hilary Putnam.
+
+## Peter Tweet
 
 A final footnote: last year, Peter wrote a multi-part Tweet posted on
 his wife's 80-something blog reflecting on his life: On Tuesday, I'll
