@@ -1,5 +1,3 @@
-## From Phil/Howard
-
 Retired Computer Science Professor Peter Kugel passed away on October
 11, 2021.  He died at home with his family at his bedside. He was 91.
 
