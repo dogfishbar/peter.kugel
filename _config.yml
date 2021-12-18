@@ -1,2 +1,7 @@
 theme: jekyll-theme-minimal
 logo: assets/PeterKugel.jpeg
+title: "Peter Kugel"
+# description: CS PhD Student, MIT
+baseurl: "" 
+url: "http://dogfishbar.github.io/peter.kugel" # the base hostname & protocol for your site, e.g. http://example.com
+
