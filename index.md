@@ -1,7 +1,17 @@
 ## From Phil/Howard
 
-Retired Computer Science Professor Peter Kugel passed on October 11,
-2021 at the age of 91 after a long and happy life.
+Retired Computer Science Professor Peter Kugel passed away
+on October 11, 2021.  He died at the age of 91, at home with
+his family at his bedside. He was a much beloved member of
+the Computer Science Department from shortly after its
+founding in 197?.
+
+Peter was an exceptional colleague and a generous mentor to
+both students and junior faculty.   His scholarly interests
+were broad but his main interests centered around human
+intelligence and computability.  
+
+*2021 at the age of 91 after a long and happy life.
 
 His son, Jeremy Kugel said, "Peter endured a litany of
 illnesses, always with grace and optimism.  He was a good man who had
@@ -22,7 +32,7 @@ available jobs in philosophy unappealing, I went to work for a company
 developing software on Boston's Route 128.  From there, I went to MIT
 where I tried unsuccessfully to invent Google.  After MIT, I came to
 Boston College where I taught computer science for 35 years until
-retiring in 2005."
+retiring in 2005."*
 
 ## Quotes from BC People
 
